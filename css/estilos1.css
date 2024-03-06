@@ -1,0 +1,112 @@
+body
+{
+    background-color: rgb(223, 192, 154);
+}
+
+#ca
+{
+    background-color: aquamarine;
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    top: 80px;
+    left: 250px;
+    z-index: 1;
+}
+#cb
+{
+    background-color: aquamarine;
+    width: 800px;
+    height: 40px;
+    position: fixed;
+    top: 280px;
+    left: 50px;
+    z-index: 1;
+}
+
+#cara
+{
+    background-color: black;
+    border-radius: 400px;
+    width: 500px;
+    height: 600px;
+    position: fixed;
+    top: 250px;
+    left: 150px;
+    z-index: 0;
+
+}
+
+#o1
+{
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    transform: rotate(45deg);
+}
+#pu1
+{
+    background-color: crimson;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 30px;
+}
+
+#o2
+{
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 150px;
+    left: 270px;
+    transform: rotate(45deg);
+}
+#pu2
+{
+    background-color: crimson;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 30px;
+}
+
+#n
+{
+    background-color: goldenrod;
+    border-radius: 100px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 250px;
+    left: 185px;
+}
+
+#o
+{
+    background-color: greenyellow;
+    border-radius: 100px;
+    width: 200px;
+    height: 230px;
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+#oo
+{
+    background-color: grey;
+    border-radius: 100px;
+    width: 180px;
+    height: 210px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
